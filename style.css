@@ -17,6 +17,7 @@ body {
 
 .title {
   font-size: 60px;
+  font-weight: 700;
   color: #d4af37; 
   text-align: center;
   letter-spacing: 3px;
@@ -59,6 +60,7 @@ body {
     background-color: #000000; 
     color: #d4af37; 
     font-weight: bold;
+    font-weight: 500;
 }
 
 .buttons button:hover {
